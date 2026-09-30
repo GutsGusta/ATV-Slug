@@ -1,0 +1,16 @@
+.wrapper-filme{
+    background-color: cornsilk;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.wrapper-filme img{
+    height: auto;
+    width: 200px;
+}

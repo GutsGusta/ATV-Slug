@@ -1,0 +1,9 @@
+.container-produto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container-produto img {
+    width: 400px;
+    height: auto;
+}
